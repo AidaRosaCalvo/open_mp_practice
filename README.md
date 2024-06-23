@@ -1,5 +1,4 @@
 # OpenMP_practice
-# Ejercicios de Programación Paralela y Distribuida con OpenMP
 
 Este repositorio contiene varios ejercicios en el lenguaje C que utilizan la librería OpenMP. Estos ejercicios forman parte de las evaluaciones de la asignatura "Programación Paralela y Distribuida". Además, el repositorio incluye scripts para ejecutar los ejercicios en el clúster de computadoras de la Universidad Central Martha Abreus de las Villas.
 
